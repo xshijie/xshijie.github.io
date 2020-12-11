@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xshijie.github.io</id>
     <title>张哥表情站</title>
-    <updated>2020-12-11T10:29:46.646Z</updated>
+    <updated>2020-12-11T10:59:50.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xshijie.github.io"/>
     <link rel="self" href="https://xshijie.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://xshijie.github.io/images/avatar.png</logo>
     <icon>https://xshijie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 张哥表情站</rights>
+    <entry>
+        <title type="html"><![CDATA[宝宝巴士系列恶搞02期]]></title>
+        <id>https://xshijie.github.io/post/bao-bao-ba-shi-xi-lie-e-gao-02-qi/</id>
+        <link href="https://xshijie.github.io/post/bao-bao-ba-shi-xi-lie-e-gao-02-qi/">
+        </link>
+        <updated>2020-12-11T10:59:11.000Z</updated>
+        <content type="html"><![CDATA[<p>来喽！<br>
+<video id="movies" src="https://file.nmb.show/view.php/f1f485575a5edf964b275175c8c6325c.mp4" autobuffer="true" controls="" width="700
+  %"></video></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[宝宝巴士恶搞系列01期]]></title>
         <id>https://xshijie.github.io/post/bao-bao-ba-shi-e-gao-xi-lie-01-qi/</id>
