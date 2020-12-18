@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xshijie.github.io</id>
     <title>张哥表情站</title>
-    <updated>2020-12-18T10:43:31.340Z</updated>
+    <updated>2020-12-18T11:01:37.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xshijie.github.io"/>
     <link rel="self" href="https://xshijie.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://xshijie.github.io/images/avatar.png</logo>
     <icon>https://xshijie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 张哥表情站</rights>
+    <entry>
+        <title type="html"><![CDATA[肥婆超人·最后的泡爬]]></title>
+        <id>https://xshijie.github.io/post/fei-po-chao-ren-zui-hou-de-pao-pa/</id>
+        <link href="https://xshijie.github.io/post/fei-po-chao-ren-zui-hou-de-pao-pa/">
+        </link>
+        <updated>2020-12-18T10:59:10.000Z</updated>
+        <content type="html"><![CDATA[<p><em>作者：朱梓赫</em><br>
+<video id="movies" src="https://file.nmb.show/view.php/613c45a12c04065471adc948c3bfffdd.mp4" autobuffer="true" controls="" width="700
+  %"></video></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音乐比赛曲目]]></title>
         <id>https://xshijie.github.io/post/yybs/</id>
@@ -90,12 +101,10 @@
         <updated>2020-12-11T10:59:11.000Z</updated>
         <content type="html"><![CDATA[<font size=5>
 来喽！
+温馨提示：你也可以发你做的视频哦！
 </font>
 <video id="movies" src="https://file.nmb.show/view.php/f1f485575a5edf964b275175c8c6325c.mp4" autobuffer="true" controls="" width="700
   %"></video>
-  <font size=3>
-<p>温馨提示：你也可以发你做的视频哦！<br>
-</font></p>
 ]]></content>
     </entry>
     <entry>
