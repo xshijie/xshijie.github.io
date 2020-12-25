@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xshijie.github.io</id>
     <title>张哥表情站</title>
-    <updated>2020-12-23T09:44:18.666Z</updated>
+    <updated>2020-12-25T09:09:06.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xshijie.github.io"/>
     <link rel="self" href="https://xshijie.github.io/atom.xml"/>
@@ -125,7 +125,8 @@
         <link href="https://xshijie.github.io/post/hou-hou-gong-si/">
         </link>
         <updated>2020-12-11T11:12:21.000Z</updated>
-        <content type="html"><![CDATA[<p><em>作者：朱梓赫</em><br>
+        <content type="html"><![CDATA[<p><em>视频版权 : 肥肠电影公司（与张哥表情站的合作公司，点击上方查看其所有作品）</em><br>
+<em>导演/拍摄/剪辑 : 朱梓赫</em><br>
 一个关于猿猴的故事......<br>
 <video id="movies" src="https://file.nmb.show/view.php/80796020085e9de143f144f27e4c4863.mp4" autobuffer="true" controls="" width="700
   %"></video></p>
