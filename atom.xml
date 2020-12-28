@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xshijie.github.io</id>
     <title>张哥表情站</title>
-    <updated>2020-12-25T12:54:36.868Z</updated>
+    <updated>2020-12-28T10:04:55.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xshijie.github.io"/>
     <link rel="self" href="https://xshijie.github.io/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://xshijie.github.io/images/avatar.png</logo>
     <icon>https://xshijie.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 张哥表情站</rights>
+    <entry>
+        <title type="html"><![CDATA[传奇唐唐]]></title>
+        <id>https://xshijie.github.io/post/chuan-qi-tang-tang/</id>
+        <link href="https://xshijie.github.io/post/chuan-qi-tang-tang/">
+        </link>
+        <updated>2020-12-28T10:03:10.000Z</updated>
+        <content type="html"><![CDATA[<p><em>视频版权 : 肥肠电影公司（与张哥表情站的合作公司，点击上方查看其所有作品）</em><br>
+<em>导演/拍摄/剪辑 : 朱梓赫</em><br>
+<video id="movies" src="https://file.nmb.show/view.php/6a58d1341980ad57b6dbc9914e5a9e35.mp4" autobuffer="true" controls="" width="700
+  %"></video></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神奇逄逄]]></title>
+        <id>https://xshijie.github.io/post/shen-qi-pang-pang/</id>
+        <link href="https://xshijie.github.io/post/shen-qi-pang-pang/">
+        </link>
+        <updated>2020-12-28T09:58:20.000Z</updated>
+        <content type="html"><![CDATA[<p><em>视频版权 : 肥肠电影公司（与张哥表情站的合作公司，点击上方查看其所有作品）</em><br>
+<em>导演/拍摄/剪辑 : 朱梓赫</em><br>
+<video id="movies" src="https://file.nmb.show/view.php/9e00c99391e74c14158911ea85195843.mp4" autobuffer="true" controls="" width="700
+  %"></video></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[蝙蝠盛大战钢铁猴]]></title>
         <id>https://xshijie.github.io/post/bian-fu-sheng-da-zhan-gang-tie-hou/</id>
@@ -155,32 +179,6 @@
         <content type="html"><![CDATA[<p>宝宝巴士恶搞，请酝酿观看！<br>
 <video id="movies" src="https://file.nmb.show/view.php/9abee3a6d664d2764a3aed4417027de6.mp4" autobuffer="true" controls="" width="700
   %"></video></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[朱朱系列03期]]></title>
-        <id>https://xshijie.github.io/post/zhu-zhu-xi-lie-03-qi/</id>
-        <link href="https://xshijie.github.io/post/zhu-zhu-xi-lie-03-qi/">
-        </link>
-        <updated>2020-09-20T10:06:29.000Z</updated>
-        <content type="html"><![CDATA[<p><em>本期更新1个表情</em><br>
-我又来更新了，最近不更新是没有素材啊！<br>
-（看到的打个卡吧，最好留下名字哦）<br>
-上表情：<br>
-<img src="https://xshijie.github.io/post-images/1600596469586.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更新：评论功能上新！]]></title>
-        <id>https://xshijie.github.io/post/geng-xin-ping-lun-gong-neng-shang-xin/</id>
-        <link href="https://xshijie.github.io/post/geng-xin-ping-lun-gong-neng-shang-xin/">
-        </link>
-        <updated>2020-09-06T10:01:09.000Z</updated>
-        <content type="html"><![CDATA[<p>这。。。。。。趁着周末，我也把张哥表情站的评论功能搞上了。<br>
-当然，我也不想搞什么张哥表情站账号，因为麻烦。<br>
-所以评论时直接填名字就行（你要是冒充别人的话，我也没办法）<br>
-好了，大家也试试这个功能吧。<br>
-光说个打卡也行。</p>
 ]]></content>
     </entry>
 </feed>
